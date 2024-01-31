@@ -28,6 +28,7 @@
 .packages
 build/
 
-# iOS and MacOS src folders
-ios/Classes/src/
-macos/Classes/src/
+# HACK(phlip9): git dep on this package doesn't work...
+# # iOS and MacOS src folders
+# ios/Classes/src/
+# macos/Classes/src/
